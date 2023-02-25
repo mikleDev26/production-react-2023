@@ -4,6 +4,7 @@
     "noImplicitAny": true,
     "module": "ESNext",
     "target": "es5",
+    "baseUrl": ".",
     "jsx": "react",
     "allowJs": true,
     "moduleResolution": "node",
